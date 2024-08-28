@@ -5,4 +5,6 @@ public class TestClass {
 
     int var2 = 6;
     int var3 = 23;
+
+    int var4 = 90;
 }
