@@ -11,4 +11,6 @@ public class TestClass {
 
 
     int var5 = 456;
+
+    int var6 = 23;
 }
