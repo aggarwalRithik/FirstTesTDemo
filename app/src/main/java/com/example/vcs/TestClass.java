@@ -8,4 +8,7 @@ public class TestClass {
 
 
     int var4 = 90;
+
+
+    int var5 = 456;
 }
