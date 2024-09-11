@@ -9,4 +9,5 @@ public class FunctionClass {
     int var7 =90;
     private int var2 = 67;
 
+    int var3 = 567;
 }
